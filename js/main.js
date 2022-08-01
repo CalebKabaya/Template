@@ -162,7 +162,7 @@
 			}
 			if ( st < 350 ) {
 				if ( navbar.hasClass('awake') ) {
-					navbar.removeClass('awake');
+					navbar.removeClass('sleep');
 					navbar.addClass('sleep');
 				}
 				if(sd.length > 0) {
