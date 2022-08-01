@@ -163,7 +163,7 @@
 			if ( st < 350 ) {
 				if ( navbar.hasClass('awake') ) {
 					navbar.removeClass('sleep');
-					navbar.addClass('sleep');
+					navbar.addClass('awake');
 				}
 				if(sd.length > 0) {
 					sd.removeClass('sleep');
