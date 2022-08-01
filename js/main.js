@@ -51,7 +51,7 @@
 
 			if ( $('#ftco-nav').is(':visible') ) {
 				$(this).removeClass('active');
-			} else {
+			} else  {
 				$(this).addClass('active');	
 			}
 
